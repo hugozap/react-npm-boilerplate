@@ -11,6 +11,7 @@ class MyComponent extends React.Component {
     render() {
         return (
             <div className="my-component">
+                <span> hola </span>
                 <i className="icon-test"></i>
                 <i className="icon-test"></i>
                 <i className="icon-test"></i>
